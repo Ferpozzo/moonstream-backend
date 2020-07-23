@@ -1,0 +1,44 @@
+{
+    "name": "Administrador",
+    "userName": "admin123",
+    "nick": "administrador",
+    "email": "administrador@gmail.com",
+    "password": "admin0114",
+    "age": 21,
+    "gender": "M",
+    "channel": {
+        "mods": [
+            {
+                "nick": "wonderwoman"
+            },
+            {
+                "nick": "greenlantern"
+            },
+            {
+                "nick": "batman"
+            }
+        ],
+        "subscribers": [
+            {
+                "nick": "wonderwoman"
+            },
+            {
+                "nick": "greenlantern"
+            },
+            {
+                "nick": "batman"
+            }
+        ],
+      "followers": [
+            {
+                "nick": "wonderwoman"
+            },
+            {
+                "nick": "greenlantern"
+            },
+            {
+                "nick": "batman"
+            }
+        ]
+    }
+}
